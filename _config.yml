@@ -20,15 +20,14 @@ timezone: Europe/Berlin
 
 title: Thorri                     # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Just me playing around   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Just a way for me to publish my personal projects in the home it might help.
+  My main focus is Linux and Cybersecurity.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://thorrisnep.github.io/'
 
 github:
   username: ThorriSnep           # change to your github username
