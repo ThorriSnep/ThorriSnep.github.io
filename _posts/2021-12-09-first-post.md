@@ -1,8 +1,6 @@
 ---
 title: Welcome to my Blog
-author:
-  name: ThorriSnep
-  link: https://github.com/ThorriSnep
+author: ThorriSnep
 date: 2021-12-09 14:23:00 +0100
 categories: [general]
 tags: [general]
